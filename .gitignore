@@ -1,0 +1,46 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos generados por Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de configuración local
+*.sqlite3
+#*.env
+supabase/.env.local
+supabase/.temp/
+
+# Archivos de configuración de Django
+*.log
+db.sqlite3
+media/
+
+# Archivos de Supabase
+.supabase
+.supabase/*
+supabase/.cache/
+supabase/migrations/
+
+# Archivos generados por IDEs
+.idea/
+.vscode/
+
+# Dependencias
+node_modules/
+__pycache__/
+
+# Archivos de compilación
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.~*
+
+# Archivos de configuración de sistema
+.DS_Store
+Thumbs.db
+

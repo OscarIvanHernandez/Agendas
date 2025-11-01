@@ -15,7 +15,7 @@ Este sistema está inspirado en un proyecto desarrollado durante mis prácticas 
 This system is inspired by a project developed during my professional internship at UAZ, focused on specific functionalities. Building on that foundation, this version represents a personal idealization aimed at gaining experience and deepening knowledge in modern development technologies.
 
 # Technologies Used
-* Python 3.11
+* Python 3.12-slim
 * Django 4.2
 * Docker
 * PostgreSQL
